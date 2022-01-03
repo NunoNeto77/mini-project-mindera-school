@@ -41,6 +41,3 @@ public class Main {
         vendingMachine.displayByeMessage();
     }
 }
-
-//    String selectedProduct =
-//     int selectProductNumber = Integer.parseInt(selectedProduct); // converts a string to an int
