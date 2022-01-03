@@ -13,8 +13,8 @@ public enum Coin {
         this.value = value;
     }
 
-    // convert "0,0,0,0,0" to [0, 0, 0, 0, 0]
-    public static int[] parseCoins(String coins) { // analisar moedas
+    // convert "0,0,0,0,0" into [0, 0, 0, 0, 0]
+    public static int[] parseCoins(String coins) {  
         String[] numberOfCoinsInText = coins.split(",");
         int[] result = new int[numberOfCoinsInText.length];
 
