@@ -18,3 +18,5 @@ To work with this project:
 
 first, you need to run the main method from mainPackage;
 after that, you can choose what you want to do.
+
+ATT: In music package, in filePath, you need to have the music on your pc and put the right path.
